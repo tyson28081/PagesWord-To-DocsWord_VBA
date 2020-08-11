@@ -1,5 +1,5 @@
 # PagesWord-To-DocsWord_VBA
-Con este Recurso ***VBA MACRO WORD***, vamos ah *convertir* cada pagina de un Word a documentos .DOCX independientes. Por ejemplo si tengo un Documento Word con 7 paginas, estas 7 paginas se extraeran aparte como nuevos Documentos Words; osea 7 Documentos Word aparte del original.
+With this ***VBA MACRO WORD*** Resource, we are going to convert each page of a Word to independent .DOCX documents. For example, if I have a Word Document with 7 pages, these 7 pages will be extracted separately as new Word Documents; I mean 7 Word documents apart from the original.
 
 tyson_77newday@hotmail.com
 
@@ -7,5 +7,5 @@ tyson_77newday@hotmail.com
 
 **Ritter77** :virgo:    *don't speack english*
 
-Otros Proyectos:
+Other Projects:
 	http://www.colinaazul.tk/
