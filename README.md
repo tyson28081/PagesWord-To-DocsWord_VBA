@@ -13,7 +13,7 @@ Other Projects:
 If you can *donate* something to me, ***I would really appreciate it***, life has its bad sides. </br>
 <a href="https://www.paypal.com/paypalme/PeterHanz77" title="Donations Paypal" target="_blank"><img src="PAYPAL Credit Card.jpg" width="200" height="134"></a> </br>
 <a href="https://www.paypal.com/paypalme/PeterHanz77" title="Donations Paypal" target="_blank">paypal.me/PeterHanz77</a>
-[paypal.me/PeterHanz77] (https://www.paypal.com/paypalme/PeterHanz77) {target="_blank"} </br>
+[paypal.me/PeterHanz77](https://www.paypal.com/paypalme/PeterHanz77){target="_blank"} </br>
 [Go to this page](https://www.paypal.com/paypalme/PeterHanz77/?target=_blank) </br>
 [paypal.me/PeterHanz77](https://www.paypal.com/paypalme/PeterHanz77){:target="_blank"}
 ---
