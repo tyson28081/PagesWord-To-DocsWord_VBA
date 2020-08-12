@@ -35,7 +35,8 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 	- **Documents("PW TIENDA de CAMARAS FOTOGRAFICAS.docm").Activate** </br>
 	- **"D:\..." </br>**
 	
-	- Bien te explico en la primera linea *Activamos* el documento que vamos a usar para dividir sus paginas. </br>
+	- Bien te explico en la primera linea *Activamos* el documento que vamos a usar para dividir sus paginas; tiene que ser el mismo nombre que usaras 
+		para guardar la macro. </br>
 	- Segunda linea es la ruta donde se guardaran los nuevos documentos words extraidos del documento original. </br>
 	- Ahora **CTRL + S** para guardar y cerrar el *Visual Basic*. </br>
 	
