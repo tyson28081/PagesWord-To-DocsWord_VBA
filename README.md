@@ -15,3 +15,12 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 <a href="https://www.paypal.com/paypalme/PeterHanz77" title="Donations Paypal">paypal.me/PeterHanz77</a>
 
 ***HOW TO APPLY?***
+
+fichero: ARCHIVO > opciones > personalizar cinta de opciones > 
+check: Programador 	(panel derecho)
+fichero: programador > visual basic > panel izquierdo > SELECCIONAR
+		Proyecto PW TIENDA de CAMARAS FOTOGRAFICAS – P1W
+			> this document
+	Pegar código del archivo
+		USO NORMAL
+		MACRO PARA EXTRAER PAGINAS A DOCUMENTO WORD.txt
