@@ -25,10 +25,10 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 	- Project *PW TIENDA de CAMARAS FOTOGRAFICAS* </br>
 		- Microsoft Word Objetos </br>
 			- this document </br>
-	- Pegar aqui código del archivo </br>
+	- Pegar aqui el código del archivo </br>
 		- *MACRO PARA DIVIDIR PAGINAS A DOCUMENTOS WORD.txt* </br>
 		
-4. Modificar las siguientes lineas </br>
+4. Modificar las siguientes lineas: </br>
 	- **Documents("PW TIENDA de CAMARAS FOTOGRAFICAS.docm").Activate** </br>
 	- **"D:\..." </br>**
 	
