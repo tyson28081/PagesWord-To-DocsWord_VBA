@@ -18,28 +18,28 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 
 1. Abrir el Documento *PW TIENDA de CAMARAS FOTOGRAFICAS*.docx </br>
 
-2. fichero: ARCHIVO > opciones > personalizar cinta de opciones > </br>
+2. fichero: *ARCHIVO* > opciones > personalizar cinta de opciones > </br>
 	- check: Programador (panel derecho) </br>
 	
-3. fichero: PROGRAMADOR > visual basic > panel izquierdo > SELECCIONAR </br>
-	- Project PW TIENDA de CAMARAS FOTOGRAFICAS </br>
+3. fichero: *PROGRAMADOR* > visual basic > panel izquierdo > SELECCIONAR </br>
+	- Project *PW TIENDA de CAMARAS FOTOGRAFICAS* </br>
 		- Microsoft Word Objetos </br>
 			- this document </br>
 	- Pegar aqui código del archivo </br>
-		- MACRO PARA DIVIDIR PAGINAS A DOCUMENTOS WORD.txt </br>
+		- *MACRO PARA DIVIDIR PAGINAS A DOCUMENTOS WORD.txt* </br>
 		
 4. Modificar las siguientes lineas </br>
-	- Documents("PW TIENDA de CAMARAS FOTOGRAFICAS.docm").Activate </br>
-	- "D:\..." </br>
+	- **Documents("PW TIENDA de CAMARAS FOTOGRAFICAS.docm").Activate** </br>
+	- **"D:\..." </br>**
 	
 	- Bien te explico en la primera linea *Activamos* el documento que vamos a usar para dividir sus paginas </br>
 	- Segunda linea es la ruta donde se guardaran los nuevos documentos words extraidos del documento original </br>
 	- Ahora CTRL + S para guardar y cerrar el *Visual Basic* </br>
 	
 5. *GUARDAR DOCUMENTO HABILITADO PARA MACROS* </br>
-	- Fichero: ARCHIVO > guardar como > examinar </br>
+	- Fichero: *ARCHIVO* > guardar como > examinar </br>
 		- Buscar la carpeta para guardar </br>
-		- Nombre		PW TIENDA de CAMARAS FOTOGRAFICAS – P2W </br>
-		- Tipo de archivo	documento habilitado con macros de Word .DOCM </br>
-		- GUARDAR </br>
+		- Nombre		***PW TIENDA de CAMARAS FOTOGRAFICAS*** </br>
+		- Tipo de archivo	***documento habilitado con macros de Word .DOCM*** </br>
+		- Guardar </br>
 
