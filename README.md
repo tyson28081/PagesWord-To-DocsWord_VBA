@@ -12,4 +12,6 @@ Other Projects:
 
 If you can *donate* something to me, ***I would really appreciate it***, life has its bad sides. </br>
 <img src="PAYPAL Credit Card.jpg" width="200" height="134"> </br>
-<blockquote><a href="https://www.paypal.com/paypalme/PeterHanz77" title="Donations Paypal">paypal.me/PeterHanz77</a></blockquote>
+<a href="https://www.paypal.com/paypalme/PeterHanz77" title="Donations Paypal">paypal.me/PeterHanz77</a>
+
+*COMO APLICAR?*
