@@ -38,9 +38,10 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 	- Bien te explico en la primera linea *Activamos* el documento que vamos a usar para dividir sus paginas; tiene que ser el mismo nombre que usaras 
 		para guardar la macro. </br>
 	- Segunda linea es la ruta donde se guardaran los nuevos documentos words extraidos del documento original. </br>
-	- Ahora **CTRL + S** para guardar y cerrar el *Visual Basic*. </br>
 	
 5. *GUARDAR DOCUMENTO HABILITADO PARA MACROS* </br>
+	- Ahora **CTRL + S** para guardar </br>
+	- Saldra un mensaje indicando que el documento tiene caracteristicas *Macros*, Dale ***NO*** para *guardar con macros*
 	- Fichero: **Archivo** > guardar como > examinar </br>
 		- Buscar la carpeta para guardar </br>
 		- Nombre --- 		***PW TIENDA de CAMARAS FOTOGRAFICAS*** </br>
