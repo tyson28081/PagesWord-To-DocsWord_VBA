@@ -16,7 +16,7 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 [paypal.me/PeterHanz77](https://www.paypal.com/paypalme/PeterHanz77){target="_blank"} </br>
 [Go to this page](https://www.paypal.com/paypalme/PeterHanz77/?target=_blank) </br>
 [paypal.me/PeterHanz77](https://www.paypal.com/paypalme/PeterHanz77){:target="_blank"} </br>
-[Google](https://google.com" target="_blank)
+[Link](https://www.paypal.com/paypalme/PeterHanz77/ "title" target="_blank")
 ---
 ---
 
