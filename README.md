@@ -15,7 +15,7 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 <a href="https://www.paypal.com/paypalme/PeterHanz77" title="Donations Paypal" target="_blank">paypal.me/PeterHanz77</a>
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"} </br>
 ![New tab](https://www.paypal.com/paypalme/PeterHanz77/) </br>
-![New tab](//paypal.com/paypalme/PeterHanz77/) 
+![hola](//paypal.com/paypalme/PeterHanz77/) 
 
 ---
 ---
