@@ -50,14 +50,14 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 		
 6. Cerrar el *Visual Basic* y el documento *PW TIENDA de CAMARAS FOTOGRAFICAS.docx*, este sin guardar cambios. </br>
 
-7. Abrimos ahora el documento *Macros* **PW TIENDA de CAMARAS FOTOGRAFICAS.docm**. </br>
+7. Abrimos ahora el documento *Macros* ***PW TIENDA de CAMARAS FOTOGRAFICAS.docm***. </br>
 
 8. ***Visual Basic*** </br>
 	- Ir a la consola de Visual Basic donde pegamos el codigo funcion ***Sub SAVE_INDEPENDENT_SHEETS()*** </br>
-	- Presionar ***EJECUTAR*** (icono de play) o ***F5***. </br>
-	- Los nuevos documentos se guardaran en la carpeta destino que elegistes para guardar. </br>
+	- Presionar ***Ejecutar*** (icono de play) o ***F5***. </br>
+	- Los nuevos documentos se guardaran en la *carpeta destino* que elegistes para guardar. </br>
 	
-9. LISTO ES TODO... ***MUCHAS GRACIAS!!***
+9. Listo es todo... ***MUCHAS GRACIAS!!***
 
 
 
