@@ -12,4 +12,4 @@ Other Projects:
 
 If you can *donate* something to me, ***I would really appreciate it***, life has its bad sides. </br>
 <img src="PAYPAL Credit Card.jpg" width="200" height="134"> </br>
-<pre>paypal.me/PeterHanz77</pre>
+<pre><code> paypal.me/PeterHanz77 </code></pre>
