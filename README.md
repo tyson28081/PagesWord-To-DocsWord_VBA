@@ -17,7 +17,7 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 ***HOW TO APPLY?***
 
 fichero: ARCHIVO > opciones > personalizar cinta de opciones > </br>
-	<pre>check: Programador (panel derecho)</pre> </br>
+          check: Programador (panel derecho) </br>
 fichero: programador > visual basic > panel izquierdo > SELECCIONAR </br>
 		Proyecto PW TIENDA de CAMARAS FOTOGRAFICAS </br>
 			> this document </br>
