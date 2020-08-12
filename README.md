@@ -9,3 +9,7 @@ tyson_77newday@hotmail.com
 
 Other Projects:
 	http://www.colinaazul.tk/
+
+If you can *donate* something to me, ***I would really appreciate it***, life has its bad sides.
+<img src="PAYPAL Credit Card.jpg" width="200" height="134">
+	paypal.me/PeterHanz77
