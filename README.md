@@ -19,7 +19,7 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 
 ***HOW TO APPLY?***
 
-1. Abrir el Documento *PW TIENDA de CAMARAS FOTOGRAFICAS*.docx </br>
+1. Abrir el Documento *PW TIENDA de CAMARAS FOTOGRAFICAS.docx* </br>
 
 2. fichero: **Archivo** > opciones > personalizar cinta de opciones > </br>
 	- check: Programador (panel derecho) </br>
@@ -37,7 +37,7 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 	
 	- Bien te explico en la primera linea *Activamos* el documento que vamos a usar para dividir sus paginas; tiene que ser el mismo nombre que usaras 
 		para guardar la macro. </br>
-	- Segunda linea es la ruta donde se guardaran los nuevos documentos words extraidos del documento original. </br>
+	- Y la segunda linea es la ruta donde se guardaran los nuevos documentos words extraidos del documento original. </br>
 	
 5. *GUARDAR DOCUMENTO HABILITADO PARA MACROS* </br>
 	- Ahora **CTRL + S** para guardar </br>
@@ -45,6 +45,19 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 	- Fichero: **Archivo** > guardar como > examinar </br>
 		- Buscar la carpeta para guardar </br>
 		- Nombre --- 		***PW TIENDA de CAMARAS FOTOGRAFICAS*** </br>
-		- Tipo de archivo --- 	***documento habilitado con macros de Word .DOCM*** </br>
+		- Tipo de archivo --- 	***documento habilitado con macros de Word (*.DOCM)*** </br>
 		- Guardar </br>
+		
+6. Cerrar el *Visual Basic* y el documento *PW TIENDA de CAMARAS FOTOGRAFICAS.docx*, este sin guardar cambios. </br>
+
+7. Abrimos ahora el documento *Macros* **PW TIENDA de CAMARAS FOTOGRAFICAS.docm**. </br>
+
+8. ***Visual Basic*** </br>
+	- Ir a la consola de Visual Basic donde pegamos el codigo funcion ***Sub SAVE_INDEPENDENT_SHEETS()*** </br>
+	- Presionar ***EJECUTAR*** (icono de play) o ***F5***. </br>
+	- Los nuevos documentos se guardaran en la carpeta destino que elegistes para guardar. </br>
+	
+9. LISTO ES TODO... ***MUCHAS GRACIAS!!***
+
+
 
