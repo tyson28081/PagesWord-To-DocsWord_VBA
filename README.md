@@ -17,7 +17,7 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 ---
 ---
 
-***HOW TO APPLY?***
+***HOW TO APPLY?*** *in Spanish*
 
 1. Abrir el Documento *PW TIENDA de CAMARAS FOTOGRAFICAS.docx* </br>
 
