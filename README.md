@@ -16,11 +16,10 @@ If you can *donate* something to me, ***I would really appreciate it***, life ha
 
 ***HOW TO APPLY?***
 
-fichero: ARCHIVO > opciones > personalizar cinta de opciones > 
-check: Programador 	(panel derecho)
-fichero: programador > visual basic > panel izquierdo > SELECCIONAR
-		Proyecto PW TIENDA de CAMARAS FOTOGRAFICAS – P1W
-			> this document
-	Pegar código del archivo
-		USO NORMAL
-		MACRO PARA EXTRAER PAGINAS A DOCUMENTO WORD.txt
+fichero: ARCHIVO > opciones > personalizar cinta de opciones > </br>
+	<pre>check: Programador (panel derecho)</pre> </br>
+fichero: programador > visual basic > panel izquierdo > SELECCIONAR </br>
+		Proyecto PW TIENDA de CAMARAS FOTOGRAFICAS </br>
+			> this document </br>
+	Pegar código del archivo </br>
+		MACRO PARA DIVIDIR PAGINAS A DOCUMENTOS WORD.txt </br>
