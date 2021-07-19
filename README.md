@@ -8,7 +8,7 @@ tyson_77newday@hotmail.com
 **Ritter77** :virgo:    *I speack english too*
 
 Other Projects:
-	http://www.colinaazul.tk/
+	http://www.colinaazul.ga/
 
 If you can *donate* something to me, ***I would really appreciate it***, life has its bad sides. Press ***CTRL*** + ***Clic*** image below</br>
 <a href="https://www.paypal.com/paypalme/PeterHanz77" title="Press CTRL + CLIC" target="_blank" rel="noopener"><img src="PAYPAL Credit Card.jpg" width="200" height="134"></a> </br>
